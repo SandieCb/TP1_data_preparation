@@ -2,6 +2,9 @@
 
 Ressources travaux pratiques "Développement de systèmes d'aide à la décision en santé".
 
+Objectif
+Comparer l'impact de différentes méthodes d'imputations de données manquantes pour la prédiction de la survie de patients souffrant d'insuffisance cardiaque.
+
 1. Lancez l'environnement Python
 https://mybinder.org/
 Remplir comme suit :
