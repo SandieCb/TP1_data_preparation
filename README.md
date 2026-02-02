@@ -2,8 +2,7 @@
 
 Ressources travaux pratiques "Développement de systèmes d'aide à la décision en santé".
 
-Objectif
-Comparer l'impact de différentes méthodes d'imputation de données manquantes pour la prédiction du risque de décès de patients souffrant d'insuffisance cardiaque.
+Objectif : comparer l'impact de différentes méthodes d'imputation de données manquantes pour la prédiction du risque de décès de patients souffrant d'insuffisance cardiaque.
 
 1. Lancez l'environnement Python
 https://mybinder.org/
