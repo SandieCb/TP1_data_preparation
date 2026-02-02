@@ -230,8 +230,8 @@ def generate_performance_figure(cv_results, scorers, title=''):
     
     
     # Récupération des valeurs pour la cross-validation et le test
-    cv_means = [cv_results['test_balanced_accuracy'].mean(), cv_results['test_sensibilité'].mean(), cv_results['test_specificité'].mean()]
-    cv_stds = [cv_results['test_balanced_accuracy'].std(), cv_results['test_sensibilité'].std(), cv_results['test_specificité'].std()]
+    cv_means = [cv_results['test_balanced_accuracy'].mean(), cv_results['test_sensibilité'].mean(), cv_results['test_spécificité'].mean()]
+    cv_stds = [cv_results['test_balanced_accuracy'].std(), cv_results['test_sensibilité'].std(), cv_results['test_spécificité'].std()]
 
     # Positions des barres
     bar_positions = np.arange(len(scorers))
